@@ -1,10 +1,59 @@
-Q1: Say "Hello, World!" With C++
+Say "Hello, World!" With C++
+
+Q1:
+
 	Input: You don't have to input anything
 	Output: Print "Hello, World!" To stdout
 
+------------------------------------------------------------------------------------------
+Input And Output
+
 Q2: Read 3 numbers from stdin and print their sum to stdout.
+
 	Input: 1 2 3
 	Output: 6
 	Constraints: 1<= a,b,c <= 1000
 
-Q3: I
+------------------------------------------------------------------------------------------
+Basic Data Type
+
+Q3: Input consists of the following space-separated values: int, long, char, float, and      double respectively. Print each element on a new line in the same order it was received as input. Note that the floating point value should be correct up to 3 decimal places and the double to 9 decimal places.
+	
+	Input: 	3 12345678912345 a 334.23 14049.30493
+	Output: 3
+		12345678912345
+		a
+		334.230
+		14049.304930000
+
+------------------------------------------------------------------------------------------
+Conditional Statements
+
+Q4: Given a positive integer denoting , do the following:
+
+	a) If 1<= n <= 9 , then print the lowercase English word corresponding to the 		   number(e.g., one for , two for , etc.).
+
+	b) If n>9 , print Greater than 9.
+
+	Input: 5
+	Output: five
+
+------------------------------------------------------------------------------------------
+For Loops
+
+Q5: You will be given two positive integers, a and b(a<b), separated by a newline.
+
+If 1<=n<=9 , then print the English representation of it in lowercase. That is "one" for ,       "two" for , and so on. 
+
+Else if n>9 and it is an even number, then print "even".
+Else if n>9 and it is an odd number, then print "odd".
+	
+	Input: 8
+	       11
+	Output: eight
+		nine
+		even
+		odd
+
+------------------------------------------------------------------------------------------
+
