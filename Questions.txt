@@ -1,0 +1,3 @@
+Q1: Say "Hello, World!" With C++
+	Input: You don't have to input anything
+	Output: Print "Hello, World!" To stdout
