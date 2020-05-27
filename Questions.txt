@@ -7,4 +7,4 @@ Q2: Read 3 numbers from stdin and print their sum to stdout.
 	Output: 6
 	Constraints: 1<= a,b,c <= 1000
 
-Q3: 
+Q3: I
