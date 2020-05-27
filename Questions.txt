@@ -56,4 +56,51 @@ Else if n>9 and it is an odd number, then print "odd".
 		odd
 
 ------------------------------------------------------------------------------------------
+Functions
+
+Q6: Input will contain four integers - a, b, c, d one in each line.
+    Print the greatest of four integers.
+
+	Input: 3
+	       4
+	       6
+	       5
+	Output:  6
+
+------------------------------------------------------------------------------------------
+Pointer
+
+Q7: You have to complete the function void update(int *a,int *b), which reads two integers
+    as argument, and sets a with the sum of them, and b with the absolute difference of 
+    them. Input will contain two integers, a and, b separated by a newline. You have to     
+    print the updated value of a and , b on two different lines.
+
+	Input: 4
+	       5
+	Output: 9
+		1
+
+------------------------------------------------------------------------------------------
+Strings
+
+Q8: You are given two strings,  and , separated by a new line. Each string will consist of   
+    lower case Latin characters ('a'-'z').
+
+    In the first line print two space-separated integers, representing the length of  and  
+    In the second line print the string produced by concatenating  and  ().
+    In the third line print two strings separated by a space,  and .  and  are the same as     
+    and , respectively, except that their first characters are swapped.
+
+	Input: abcd
+	       ef
+	Output: 4 2
+	        abcdef
+		ebcd af
+
+------------------------------------------------------------------------------------------
+
+
+
+
+
 
